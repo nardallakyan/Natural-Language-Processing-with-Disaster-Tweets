@@ -1,4 +1,4 @@
-# 🚨 Natural Language Processing with Disaster Tweets
+#  Natural Language Processing with Disaster Tweets
 
 [![Kaggle Competition](https://img.shields.io/badge/Kaggle-NLP_Getting_Started-blue.svg)](https://www.kaggle.com/competitions/nlp-getting-started)
 [![Python Version](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
